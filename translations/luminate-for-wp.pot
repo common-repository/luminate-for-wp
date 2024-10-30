@@ -1,0 +1,163 @@
+# Copyright (C) 2014 Luminate for WP
+# This file is distributed under the same license as the Luminate for WP package.
+msgid ""
+msgstr ""
+"Project-Id-Version: Luminate for WP 0.0.3\n"
+"Report-Msgid-Bugs-To: http://wordpress.org/tag/luminate-for-wp\n"
+"POT-Creation-Date: 2014-08-14 16:40:24+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"PO-Revision-Date: 2014-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+
+#: luminate-for-wp.php:33
+msgid "Do not access this file directly."
+msgstr ""
+
+#: luminate-for-wp.php:70
+msgid "You do not have sufficient permission to access this page"
+msgstr ""
+
+#: luminate-for-wp.php:74
+msgid " by "
+msgstr ""
+
+#: luminate-for-wp.php:75
+msgid "You are running plugin version"
+msgstr ""
+
+#: luminate-for-wp.php:80
+msgid "Settings"
+msgstr ""
+
+#: luminate-for-wp.php:81 luminate-for-wp.php:115
+msgid "Support"
+msgstr ""
+
+#: luminate-for-wp.php:89
+msgid "Plugin Settings"
+msgstr ""
+
+#: luminate-for-wp.php:91 luminate-for-wp.php:94
+msgid "Is plugin enabled? Uncheck this to turn it off temporarily."
+msgstr ""
+
+#: luminate-for-wp.php:91
+msgid "Plugin enabled?"
+msgstr ""
+
+#: luminate-for-wp.php:96
+msgid "Enter your Luminate Publisher URL"
+msgstr ""
+
+#: luminate-for-wp.php:96
+msgid "Enter Luminate Publisher URL here"
+msgstr ""
+
+#: luminate-for-wp.php:99
+msgid ""
+"Copy and paste your Luminate publisher URL here. Ex: <strong>http://www."
+"luminate.com/widget/async/1234567890</strong>"
+msgstr ""
+
+#: luminate-for-wp.php:102
+msgid "Code location"
+msgstr ""
+
+#: luminate-for-wp.php:111
+msgid ""
+"Choose where you want the code to be loaded, head or body. Code will be "
+"placed before the closing head or body tag."
+msgstr ""
+
+#: luminate-for-wp.php:118
+msgid "Disclaimer: This plugin is not affiliated with or endorsed by Luminate."
+msgstr ""
+
+#: luminate-for-wp.php:180
+msgid "is currently disabled."
+msgstr ""
+
+#: luminate-for-wp.php:215
+msgid "<a href=\"http://wordpress.org/support/plugin/%s\">Support</a>"
+msgstr ""
+
+#: luminate-for-wp.php:216 luminate-for-wp.php:271
+msgid "<a href=\"http://wordpress.org/extend/plugins/%s/\">Documentation</a>"
+msgstr ""
+
+#: luminate-for-wp.php:217
+msgid "<a href=\"http://wordpress.org/plugins/%s/faq/\">FAQ</a>"
+msgstr ""
+
+#: luminate-for-wp.php:264
+msgid "<a href=\"options-general.php?page=%s\">Settings</a>"
+msgstr ""
+
+#: luminate-for-wp.php:269
+msgid "Do you need help with this plugin? Check out the following resources:"
+msgstr ""
+
+#: luminate-for-wp.php:272
+msgid "<a href=\"http://wordpress.org/plugins/%s/faq/\">FAQ</a><br />"
+msgstr ""
+
+#: luminate-for-wp.php:273
+msgid ""
+"<a href=\"http://wordpress.org/support/plugin/%s\">Support Forum</a><br />"
+msgstr ""
+
+#: luminate-for-wp.php:274
+msgid ""
+"<a href=\"http://www.jimmyscode.com/wordpress/%s\">Plugin Homepage / Demo</"
+"a><br />"
+msgstr ""
+
+#: luminate-for-wp.php:275
+msgid ""
+"<a href=\"http://wordpress.org/extend/plugins/%s/developers/\">Development</"
+"a><br />"
+msgstr ""
+
+#: luminate-for-wp.php:276
+msgid ""
+"<a href=\"http://wordpress.org/plugins/%s/changelog/\">Changelog</a><br />"
+msgstr ""
+
+#: luminate-for-wp.php:279
+msgid ""
+"If you like this plugin, please <a href=\"http://wordpress.org/support/view/"
+"plugin-reviews/%s/\">rate it on WordPress.org</a>"
+msgstr ""
+
+#: luminate-for-wp.php:280
+msgid ""
+" and click the <a href=\"http://wordpress.org/plugins/%s/#compatibility"
+"\">Works</a> button. "
+msgstr ""
+
+#: luminate-for-wp.php:282
+msgid "Your donations encourage further development and support. "
+msgstr ""
+
+#. Plugin Name of the plugin/theme
+msgid "Luminate for WP"
+msgstr ""
+
+#. Plugin URI of the plugin/theme
+msgid "http://www.jimmyscode.com/wordpress/luminate-for-wp/"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid "Automatically add Luminate JavaScript code into your site."
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "Jimmy Pe&ntilde;a"
+msgstr ""
+
+#. Author URI of the plugin/theme
+msgid "http://www.jimmyscode.com/"
+msgstr ""
